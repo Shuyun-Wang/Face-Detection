@@ -1,4 +1,4 @@
-# Face-Detection 人脸检测系统
+# Face-Detection 全脸检测系统
 
 ### **任务分解**
 
