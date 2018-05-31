@@ -4,8 +4,11 @@
 
 |                            任务项                            |         进程         |
 | :----------------------------------------------------------: | :--------------------: |
-|          **加载 Opencv haarcascade_frontalface_alt.xml 分类器。**                       |        **ING**       |
-|        **图像的 cvtColor，equalizeHist 处理**                        | **ING** |
-|          **使用 detectMultiScale 进行识别**           | **ING** |
-|       **使用 rectangle 绘制找到的目标矩形框**                     | **ING** |
-|       **在原图像上 ROI 截取彩色的人脸保存**                       |    **ING**     |
+|          **加载 face_recognition, open-cv 包**                       |        **ENG**       |  
+|        **使用open-cv的cv.VideoCapture(0)来获取摄像头的权限**                        | **ENG** |
+|        **图像的颜色空间处理，转换为RGB**                        | **ENG** |
+|          **使用 face_locations 进行识别, 使用face_encodings进行编码**           | **ENG** |
+|          **使用 face_recognition.compare_faces 进行人脸匹配识别**           | **ENG** |
+|       **使用 cv.rectangle 绘制找到的目标矩形框**                     | **ENG** |
+|       **使用open-cv中的样式来打印人脸对应名称**                       |    **ENG**     |
+|       **执行结束后释放摄像头的权限 release**                       |    **ENG**     |
