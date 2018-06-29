@@ -1,22 +1,34 @@
 # Face-Detection 全脸检测系统
 
-<br/>
+* [Github](https://github.com/wangsy1/Face-Detection) 
 
-### **任务分解**
+### 项目简介
 
+**Face-Detection 全脸检测系统**是一款面向大学生的二手交易app。每一所大学都像是城市里的一座岛，学校里的大学生是岛上的居民，大学生的二手交易称之为买卖，于是有了——岛买岛卖。
 
-|                            任务项                            |         完成度       |
-| :----------------------------------------------------------: | :--------------------: |
-|          **任务分配以及项目的创建和部署**                       |        **已完成**       |
-|          **实现基于Opencv，opencv—haarcascade.xml 分类器的人脸检测**                       |        **已完成**       |
-|        **实现基于face-recognition的人脸检测**                       | **已完成** |
-|          **使用 tkinter实现基于上述算法的GUI模型**           | **已完成** |
-|       **使用 pyinstaller打包GUI模型**                     | **未完成** |
-|       **项目整合以及代码界面优化**                       |    **未完成**     |
+岛买岛卖旨在为大学生提供一个方便，快捷的二手交易平台，如今大学生同校二手交易主要运用QQ作为媒介发布消息，消息浏览不便且信息更新不及时，过程繁琐。岛买岛卖采用了一种新型独特的商品展示方式，以地图为载体，在卖家发布商品的地点直接展示商品，商品信息浏览更加方便直观，商品信息实时更新，除了有新型地图页商品展示方式，传统的列表显示方式依然存在。岛买岛卖还实现了实时聊天的功能，使双方的交易更加方便、快捷。
 
-  
-<br/> <br/> <br/>
-##### 尚未完成的任务以及需要攻克的技术问题：
-###### 1.完成了exe文件的转化但是在windows的各个版本之间运行会有问题
-###### 2.GUI界面欠优化，bug丰富
-###### 3.实现功能过少，在考虑新的创新点和实现方法
+### 项目成员
+
+* 张宝奇 (项目经理，算法开发) 
+    * Email: <578392883@qq.com>
+    * Github : [https://github.com/xujihui](https://github.com/xujihui)
+* 王书韵 (GUI设计，算法开发) 
+    * Email: <1085532005@qq.com>
+    * Github : [https://github.com/wangsy1](https://github.com/wangsy1)
+    
+### 运行效果
+<img src="../../image/岛买岛卖/1.png" width=250 height=400 />
+<img src="../../image/岛买岛卖/2.png" width=250 height=400 />
+<img src="../../image/岛买岛卖/3.png" width=250 height=400 />
+
+<img src="../../image/岛买岛卖/4.png" width=250 height=400 />
+<img src="../../image/岛买岛卖/5.png" width=250 height=400 />
+<img src="../../image/岛买岛卖/6.png" width=250 height=400 />
+
+<img src="../../image/岛买岛卖/7.png" width=250 height=400 />
+<img src="../../image/岛买岛卖/8.png" width=250 height=400 />
+<img src="../../image/岛买岛卖/9.png" width=250 height=400 />
+
+<img src="../../image/岛买岛卖/10.png" width=250 height=400 />
+<img src="../../image/岛买岛卖/11.png" width=250 height=400 />
