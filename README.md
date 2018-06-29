@@ -1,6 +1,5 @@
 # Face-Detection 全脸检测系统
 
-* [Github](https://github.com/wangsy1/Face-Detection) 
 
 ### 项目简介
 
@@ -12,7 +11,7 @@
 
 * 张宝奇 (项目经理，算法开发) 
     * Email: <578392883@qq.com>
-    * Github : [https://github.com/xujihui](https://github.com/xujihui)
+    * Github : [https://github.com/zh-bq](https://github.com/zh-bq)
 * 王书韵 (GUI设计，算法开发) 
     * Email: <1085532005@qq.com>
     * Github : [https://github.com/wangsy1](https://github.com/wangsy1)
